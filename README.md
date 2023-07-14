@@ -13,8 +13,9 @@ To get started with Cancerpatient, follow these steps:
 1. Clone the repository to your local machine using `git clone https://github.com/masoudcodes/cancerpatien.git`.
 2. Navigate to the project directory and run `npm install` to install all dependencies.
 3. Create a `.env` file in the root of the project directory and add the following environment variables:
+   
 
-
+   admin.com password=admin123
     GOOGLE_ID=
     GOOGLE_SECRET=
     GITHUB_ID=
