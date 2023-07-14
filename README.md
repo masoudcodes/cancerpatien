@@ -8,7 +8,7 @@ In order to bridge the gap between efficiency and prompt access to healthcare, a
 
 ## Getting Started
 
-To get started with FreshConnect, follow these steps:
+To get started with Cancerpatient, follow these steps:
 
 1. Clone the repository to your local machine using `git clone https://github.com/masoudcodes/cancerpatien.git`.
 2. Navigate to the project directory and run `npm install` to install all dependencies.
